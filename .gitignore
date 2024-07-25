@@ -1,0 +1,21 @@
+# Built application files
+/target/
+/build/
+
+# Dependencies
+/.classpath
+/.project
+/.settings/
+/.factorypath
+
+# IDE files
+/.idea/
+/.vscode/
+
+# Logs
+/logs/
+
+# Gradle files
+*.iml
+.gradle/
+build/
